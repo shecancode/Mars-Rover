@@ -4,8 +4,8 @@
    direction: "N",
    x: 0,
    y: 0,
-   travelLog: [],
- };
+   travelLog: []
+ }
 // ======================
 function turnLeft(rover){
 console.log("turnLeft was called!");
